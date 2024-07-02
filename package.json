@@ -12,6 +12,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@iconify/icons-heroicons-outline": "^1.2.5",
+    "@iconify/icons-heroicons-solid": "^1.2.6",
     "localforage": "^1.10.0",
     "lodash": "^4.17.21",
     "match-sorter": "^6.3.1",
